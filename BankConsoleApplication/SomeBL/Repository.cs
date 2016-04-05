@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankConsoleApplication
+namespace SomeBL
 {
-    class Program
+    public class Repository
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

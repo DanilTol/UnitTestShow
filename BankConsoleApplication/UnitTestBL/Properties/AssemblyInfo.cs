@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BankConsoleApplication")]
+[assembly: AssemblyTitle("UnitTestBL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BankConsoleApplication")]
+[assembly: AssemblyProduct("UnitTestBL")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("605f5183-f37d-465e-9c91-a7778535f98f")]
+[assembly: Guid("27a514ba-d26d-42c5-8b79-d0a79935b7e7")]
 
 // Version information for an assembly consists of the following four values:
 //
